@@ -1,4 +1,5 @@
-# Tela de Login
-Foi construído cada elemento da tela de login, como os campos de entrada e os botões de envio, utilizando HTML para estruturação e CSS para estilo.
+# Aplicação Web de Tela de Login
 
-Design responsivo, tela de login funcional e visualmente atraente, até mesmo em dispositivos de diferentes tamanhos.
+Foi construído cada elemento da tela de login, como os campos de entrada e botões de envio. Design responsivo,
+funcional e visualmente atraente, até mesmo em dispositivos de diferentes tamanhos.
+• Tecnologias usadas: HTML, CSS
